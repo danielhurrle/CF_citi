@@ -19,7 +19,7 @@ The data presented comes from the customer base of a specific mobility service. 
 Data can not be verified as it was collected by the company running the service. 
 Gender data is not clear, as we do not now whether 1 stands for male or female.
 
-##Key Questions
+## Key Questions
 
 1.	Trip characteristics: how long was the longest trips, the shortest trip and what’s the average trip duration?
 2.	Trip destinations: Are most trips in the city center? Which are the busiest districts?
